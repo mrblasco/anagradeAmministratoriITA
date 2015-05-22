@@ -1,0 +1,45 @@
+TIPO_ORGANO;CODICE_CARICA;DESCRIZIONE;TIPO_ENTE
+G;01;Sindaco;COMUNE
+G;02;Vicesindaco;COMUNE
+G;03;Assessore anziano;COMUNE
+G;04;Assessore effettivo;COMUNE
+G;05;Assessore supplente;COMUNE
+G;11;Vicesindaco elettivo in Valle d'Aosta;COMUNE
+G;12;Assessore;COMUNE
+G;51;Assessore non di origine elettiva;COMUNE
+G;52;Vicesindaco non di origine elettiva;COMUNE
+C;00;Delega funzioni da parte del Sindaco - Vicesindaco;COMUNE
+C;00;Delega funzioni da parte del Sindaco;COMUNE
+C;06;Consigliere;COMUNE
+C;06;Consigliere supplente;COMUNE
+C;13;Presidente del consiglio;COMUNE
+C;14;Vicepresidente del consiglio;COMUNE
+C;53;Consigliere straniero;COMUNE
+G;01;Presidente della provincia;PROVINCIA
+G;02;Vicepresidente della provincia di origine elettiva ;PROVINCIA
+G;03;Assessore anziano;PROVINCIA
+G;04;Assessore effettivo;PROVINCIA
+G;05;Assessore supplente;PROVINCIA
+G;12;Assessore;PROVINCIA
+G;51;Assessore non di origine elettiva;PROVINCIA
+G;52;Vicepresidente della provincia non di origine elettiva;PROVINCIA
+C;06;Consigliere supplente;PROVINCIA
+C;06;Consigliere;PROVINCIA
+C;10;Questore;PROVINCIA
+C;13;Presidente del consiglio;PROVINCIA
+C;14;Vicepresidente del consiglio;PROVINCIA
+C;53;Consigliere straniero aggiunto;PROVINCIA
+S;01;Presidente della regione;REGIONE
+G;02;Vicepresidente della regione di origine elettiva;REGIONE
+G;03;Assessore anziano;REGIONE
+G;04;Assessore effettivo;REGIONE
+G;05;Assessore supplente;REGIONE
+G;12;Assessore;REGIONE
+G;51;Assessore non di origine elettiva;REGIONE
+G;52;Vicepresidente della regione non di origine elettiva;REGIONE
+C;06;Consigliere supplente;REGIONE
+C;06;Consigliere;REGIONE
+C;08;Vicepresidente del consiglio ;REGIONE
+C;09;Presidente del consiglio;REGIONE
+C;10;Segretario del consiglio;REGIONE
+C;11;Questore;REGIONE
